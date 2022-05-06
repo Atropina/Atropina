@@ -1,5 +1,6 @@
 # Lucas 😁
-
+## Informações:
+  > São Paulo, SP
 
 <div align="center">
   <a href="https://github.com/Atropina">
