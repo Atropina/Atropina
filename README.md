@@ -1,7 +1,7 @@
 # Lucas 😁 Informações:
   > São Paulo, SP <br>
-  > 19 Anos
-  > <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/whatsapp-original.svg" />
+  > 19 Anos <br>
+  > Upando
 
 <div align="center">
   <a href="https://github.com/Atropina">
