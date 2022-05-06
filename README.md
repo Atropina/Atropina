@@ -1,5 +1,4 @@
-# Lucas 😁
-## Informações:
+# Lucas 😁 Informações:
   > São Paulo, SP
 
 <div align="center">
