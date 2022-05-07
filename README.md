@@ -1,7 +1,7 @@
 # Lucas 😁 Informações:
   > São Paulo, SP <br>
   > 19 Anos <br>
-  > Upando
+  > Técnico em informática
 
 <div align="center">
   <a href="https://github.com/Atropina">
