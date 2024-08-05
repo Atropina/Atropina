@@ -1,6 +1,6 @@
 # Lucas 😁 Informações:
   > São Paulo, SP <br>
-  > 21 Anos <br>
+
   > Analista de sistemas
   
 
